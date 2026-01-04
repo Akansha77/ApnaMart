@@ -2,6 +2,8 @@
 const nextConfig = {
   output: 'export',
   trailingSlash: true,
+  basePath: '/ApnaMart',
+  assetPrefix: '/ApnaMart/',
   typescript: {
     ignoreBuildErrors: true,
   },
