@@ -21,7 +21,7 @@ A modern mini e-commerce product listing and cart application built with React/N
 
 ## Live Demo
 
-[View Live Demo](https://YOUR_GITHUB_USERNAME.github.io/e-commerce-ui-build/)
+[View Live Demo](https://Akansha77.github.io/ApnaMart/)
 
 ## Getting Started
 
